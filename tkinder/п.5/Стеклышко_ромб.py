@@ -1,0 +1,30 @@
+from geom_sys import *
+from tkinter import *
+root=Tk()
+root.title('Стеклышко_ромб')
+canvas=Canvas(root,width=200,height=200,bg='white')
+canvas.pack()
+
+A=(55,178)
+B=(145,178)
+C=(100,100)
+
+P=C; Q=B; R=A
+
+L1=[(88,130),(100,160),(124,142),(112,130),(100,106)]
+L2=[(70,172),(136,166),(88,142)]
+
+
+canvas.create_polygon(A,B,C,fill='yellow',
+                      width=1,outline='black')
+canvas.create_polygon(L1,fill='red')
+canvas.create_polygon(L2,fill='green')
+
+R=symmetry(P,Q,R)
+L1=symmetry(P,Q,L1)
+L2=symmetry(P,Q,L2)
+canvas.create_polygon(P,Q,R,fill='yellow',
+                      width=1,outline='black')
+canvas.create_polygon(L1,fill='red')
+canvas.create_polygon(L2,fill='green')
+
