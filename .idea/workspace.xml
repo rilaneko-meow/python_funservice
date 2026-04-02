@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab8e74a-11ec-4f56-bb73-b991f89b383d" name="Changes" comment="Meow 3">
-      <change afterPath="$PROJECT_DIR$/project/proj4.py" afterDir="false" />
+    <list default="true" id="0ab8e74a-11ec-4f56-bb73-b991f89b383d" name="Changes" comment="Meow 4">
+      <change afterPath="$PROJECT_DIR$/graphing/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphing/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphing/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphing/17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +41,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
     "Python.main.executor": "Run",
     "Python.proj1.executor": "Debug",
     "Python.proj2.executor": "Debug",
@@ -95,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775136561685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Meow 4">
+      <option name="closed" value="true" />
+      <created>1775138396356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775138396356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +145,8 @@
     </ignored-roots>
     <MESSAGE value="Meow 2" />
     <MESSAGE value="Meow 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meow 3" />
+    <MESSAGE value="Meow 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Meow 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -146,7 +162,11 @@
     <SUITE FILE_PATH="coverage/python_funservice$proj4.coverage" NAME="proj4 Coverage Results" MODIFIED="1775138355476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/python_funservice$main.coverage" NAME="main Coverage Results" MODIFIED="1775069894992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
     <SUITE FILE_PATH="coverage/python_funservice$proj1.coverage" NAME="proj1 Coverage Results" MODIFIED="1775136716363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/python_funservice$15.coverage" NAME="15 Coverage Results" MODIFIED="1775139331654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphing" />
     <SUITE FILE_PATH="coverage/python_funservice$proj3.coverage" NAME="proj3 Coverage Results" MODIFIED="1775136707122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/python_funservice$17.coverage" NAME="17 Coverage Results" MODIFIED="1775139821743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphing" />
+    <SUITE FILE_PATH="coverage/python_funservice$14.coverage" NAME="14 Coverage Results" MODIFIED="1775139249540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphing" />
     <SUITE FILE_PATH="coverage/python_funservice$proj2.coverage" NAME="proj2 Coverage Results" MODIFIED="1775134245954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/python_funservice$16.coverage" NAME="16 Coverage Results" MODIFIED="1775139444906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphing" />
   </component>
 </project>
